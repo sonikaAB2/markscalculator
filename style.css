@@ -1,0 +1,29 @@
+body
+{
+	font-style: italic;
+	background-color:darkcyan;
+}
+input, button
+{
+	width:500px;
+	padding:20px 10px;
+	border-radius: 10px;
+	border:none;
+	font-style:oblique;
+	
+}
+.submit{
+	background-color: green;
+	color:white;
+	width:165px;
+}
+form{
+	background-color: aqua;
+}
+div
+{
+	width:100px;
+	height:50px;
+	font-size: 1.5rem;
+	display:inline-block;
+}
